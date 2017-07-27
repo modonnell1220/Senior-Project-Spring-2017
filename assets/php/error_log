@@ -1,2 +1,0 @@
-[20-Apr-2017 14:07:22 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home2/davidtec/public_html/rentingfromme.com/assets/php/payment.php on line 76
-[20-Apr-2017 14:14:19 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home2/davidtec/public_html/rentingfromme.com/assets/php/payment.php on line 76

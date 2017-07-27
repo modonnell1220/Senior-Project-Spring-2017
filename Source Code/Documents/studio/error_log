@@ -1,0 +1,115 @@
+[21-Apr-2017 13:36:00 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1333): FPDF->_readstream(Resource id #11, 16384)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #11, 'tempImgL.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgL.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(109): FPDF->Image('tempImgL.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[21-Apr-2017 13:36:01 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1333): FPDF->_readstream(Resource id #11, 16384)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #11, 'tempImgL.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgL.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(109): FPDF->Image('tempImgL.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[21-Apr-2017 13:42:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1333): FPDF->_readstream(Resource id #11, 16384)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #11, 'tempImgL.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgL.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(108): FPDF->Image('tempImgL.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[21-Apr-2017 13:43:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 13:45:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 13:47:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1333): FPDF->_readstream(Resource id #13, 16384)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #13, 'tempImgT.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgT.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(116): FPDF->Image('tempImgT.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[21-Apr-2017 13:47:56 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1333): FPDF->_readstream(Resource id #13, 16384)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #13, 'tempImgT.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgT.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(116): FPDF->Image('tempImgT.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[21-Apr-2017 13:48:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 13:48:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 13:48:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 13:49:36 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1333): FPDF->_readstream(Resource id #13, 16384)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #13, 'tempImgT.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgT.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(116): FPDF->Image('tempImgT.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[21-Apr-2017 13:49:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 13:54:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 13:57:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 14:06:35 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1333): FPDF->_readstream(Resource id #11, 16384)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #11, 'tempImgL.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgL.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(108): FPDF->Image('tempImgL.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[21-Apr-2017 14:06:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 14:21:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 14:25:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 14:32:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 14:53:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:01:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:01:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:05:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:09:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:13:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:15:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:20:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:52:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:59:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 15:59:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 16:08:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 16:13:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 16:21:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 16:24:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 16:27:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[21-Apr-2017 16:40:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1270): FPDF->_readstream(Resource id #11, 8)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #11, 'tempImgL.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgL.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(108): FPDF->Image('tempImgL.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[22-Apr-2017 18:28:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[22-Apr-2017 18:28:31 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[26-Apr-2017 14:38:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[26-Apr-2017 14:47:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[26-Apr-2017 14:51:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
+[26-Apr-2017 15:05:15 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Unexpected end of stream' in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1406): FPDF->Error('Unexpected end ...')
+#1 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1270): FPDF->_readstream(Resource id #11, 8)
+#2 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #11, 'tempImgL.png')
+#3 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php(885): FPDF->_parsepng('tempImgL.png')
+#4 /home2/davidtec/public_html/rentingfromme.com/Documents/studio/viewLease.php(108): FPDF->Image('tempImgL.png', 10, NULL, 30, 20)
+#5 {main}
+  thrown in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/fpdf/fpdf.php on line 271
+[26-Apr-2017 19:26:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/davidtec/public_html/rentingfromme.com/Documents/studio/deleteLease.php on line 25
